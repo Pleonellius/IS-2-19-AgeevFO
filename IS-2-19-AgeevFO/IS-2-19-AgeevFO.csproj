@@ -34,10 +34,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="ClassLibrary3">
-      <HintPath>..\..\..\..\..\source\repos\ClassLibrary3\ClassLibrary3\bin\Debug\netcoreapp3.1\ClassLibrary3.dll</HintPath>
+      <HintPath>..\..\ClassLibrary3\ClassLibrary3\bin\Debug\netcoreapp3.1\ClassLibrary3.dll</HintPath>
     </Reference>
     <Reference Include="MySql.Data">
-      <HintPath>..\..\..\..\..\Desktop\по игарм\MySql.Data.dll</HintPath>
+      <HintPath>..\..\..\..\Desktop\по игарм\MySql.Data.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

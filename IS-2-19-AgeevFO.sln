@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IS-2-19-AgeevFO", "IS-2-19-
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConnectDB", "..\ClassLibrary3\ClassLibrary3\ConnectDB.csproj", "{C1A474C3-C459-47E9-A436-473AC892B37C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary6", "ClassLibrary6\ClassLibrary6.csproj", "{22F54A53-85B2-4773-B319-E102F50A5D5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibrary3", "ClassLibrary6\ClassLibrary3.csproj", "{22F54A53-85B2-4773-B319-E102F50A5D5D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

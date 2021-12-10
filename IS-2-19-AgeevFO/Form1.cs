@@ -126,5 +126,10 @@ namespace IS_2_19_AgeevFO
         {
             this.Close();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
