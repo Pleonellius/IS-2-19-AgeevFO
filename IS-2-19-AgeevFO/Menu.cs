@@ -51,5 +51,10 @@ namespace IS_2_19_AgeevFO
         {
             this.Close();
         }
+
+        private void Menu_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
