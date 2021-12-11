@@ -37,7 +37,7 @@
       <HintPath>..\..\ClassLibrary3\ClassLibrary3\bin\Debug\netcoreapp3.1\ClassLibrary3.dll</HintPath>
     </Reference>
     <Reference Include="MySql.Data">
-      <HintPath>..\..\..\..\Desktop\по игарм\MySql.Data.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\MySql.Data.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
